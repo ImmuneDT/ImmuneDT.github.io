@@ -110,24 +110,27 @@ permalink: /team/
 </tr>
 
 <tr>
-    <td class="tg-21ns" colspan="4" >2.1 Creating curation guidelines</td>
-    <td class="tg-21ns" colspan="8">2.2 Creating metadata files</td>
+    <td class="tg-21ns" colspan="6" >2.1 Creating curation guidelines</td>
+    <td class="tg-21ns" colspan="6">2.2 Creating metadata files</td>
 </tr>
 
 <tr>
-  <td class="tg-zv4m" colspan="4" style="text-align: center;"><img src='/images/photos/Eirini-Tsirvouli.jpg' width="128" height="128"></td>
-  <td class="tg-zv4m" colspan="4" style="text-align: center;"><img src='/images/photos/Pedro-Monteiro.jpg' width="128" height="128"></td>
-  <td class="tg-zv4m" colspan="4" style="text-align: center;"><img src='/images/photos/Lorenzo-Veschini.jpg' width="128" height="128"></td>
+  <td class="tg-zv4m" colspan="3" style="text-align: center;"><img src='/images/photos/Eirini-Tsirvouli.jpg' width="128" height="128"></td>
+  <td class="tg-zv4m" colspan="3" style="text-align: center;"><img src='/images/photos/Luiz-Ladeira.jpg' width="128" height="128"></td>
+  <td class="tg-zv4m" colspan="3" style="text-align: center;"><img src='/images/photos/Pedro-Monteiro.jpg' width="128" height="128"></td>
+  <td class="tg-zv4m" colspan="3" style="text-align: center;"><img src='/images/photos/Lorenzo-Veschini.jpg' width="128" height="128"></td>
 </tr>
 <tr>
-  <td class="tg-21ns" colspan="4" >Eirini Tsirvouli, Ph.D.</td>
-  <td class="tg-b420" colspan="4" >Pedro T. Monteiro, Ph.D.</td>
-  <td class="tg-b420" colspan="4" >Lorenzo Veschini, Ph.D.</td>
+  <td class="tg-21ns" colspan="3" >Eirini Tsirvouli, Ph.D.</td>
+  <td class="tg-21ns" colspan="3" >Luiz Ladeira, Ph.D.</td>
+  <td class="tg-b420" colspan="3" >Pedro T. Monteiro, Ph.D.</td>
+  <td class="tg-b420" colspan="3" >Lorenzo Veschini, Ph.D.</td>
 </tr>
 <tr>
-  <td class="tg-8zks" colspan="4" >Norwegian University of Science and Technology <br> Norway</td>
-  <td class="tg-8zks" colspan="4" >INESC-ID/IST, <br> Universidade de Lisboa <br> Portugal</td >
-  <td class="tg-8zks" colspan="4" >FoDOCS, King's College London <br> Biocomplexity Institute, Indana University at Bloomington <br> United Kingdom</td>
+  <td class="tg-zv4m" colspan="3" style="text-align: center;">Norwegian University of Science and Technology <br> Norway</td>
+  <td class="tg-zv4m" colspan="3" style="text-align: center;">Biomechanics Research Unit,<br>GIGA Molecular and Computational Biology,<br>University of Liège<br>Belgium</td>
+  <td class="tg-zv4m" colspan="3" style="text-align: center;">INESC-ID/IST, <br> Universidade de Lisboa <br> Portugal</td >
+  <td class="tg-zv4m" colspan="3" style="text-align: center;">FoDOCS, King's College London <br> Biocomplexity Institute, Indana University at Bloomington <br> United Kingdom</td>
 </tr>
 
 <tr>
