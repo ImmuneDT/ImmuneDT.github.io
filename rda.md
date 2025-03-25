@@ -5,8 +5,8 @@ permalink: /rda-bidt/
 ---
 ## Research Data Alliance: Building Immune Digital Twins
 <div style="display: flex; justify-content: center;">
-    <img src="/images/rda-logo.png" alt="Image 1" width="25%">
-    <img src="/images/rda-TIGER-logo.jpg" alt="Image 2" width="15%">
+    <img src="/images/rda-logo.png" alt="Image 1" style="width: 300px; height: auto;">
+    <img src="/images/rda-TIGER-logo.jpg" alt="Image 2" style="width: 300px; height: auto;">
 </div>
 
 <div style="text-align: justify">
