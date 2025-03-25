@@ -12,8 +12,8 @@ permalink: /rda-bidt/
 <div style="text-align: justify">
 
 <br><br>
-The Working Group (WG) Building Immune Digital Twins, within the Research Data Alliance (RDA) framework, aims to foster a network of collaborators and experts in all relevant areas of research. The ultimate goal of the WG is to help create a long-term interdisciplinary immune digital twin community, willing to take up the challenges of this exciting new field. For a brief overview of our group, consider having a look at the 'About' section of our webpage.
-
+The Working Group (WG) Building Immune Digital Twins, within the Research Data Alliance (RDA) framework, aims to foster a network of collaborators and experts in all relevant areas of research. The ultimate goal of the WG is to help create a long-term interdisciplinary immune digital twin community, willing to take up the challenges of this exciting new field. For a brief overview of our group, consider having a look at the <a href="https://immunedt.github.io/about/">About</a> section of our webpage.
+https://immunedt.github.io/about/
 To gain a concise overview of our on-going activities and objectives, please have a look at our <a href="https://www.rd-alliance.org/groups/building-immune-digital-twins-wg/work-statement/?sow=168511">working statement</a>. You can also consider joining or following our WG <a href="https://www.rd-alliance.org/groups/building-immune-digital-twins-wg/activity/">activities</a>.
 
 </div>
