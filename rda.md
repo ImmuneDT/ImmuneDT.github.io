@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Research Data Alliance Working Group: Building Immune Digital Twins
+title: Working Group
 permalink: /rda-bidt/
 ---
-
+## Research Data Alliance: Building Immune Digital Twins
 <div style="display: flex; justify-content: center;">
     <img src="/images/rda-logo.png" alt="Image 1" width="25%">
-    <img src="/images/rda-TIGER-logo.jpg" alt="Image 2" width="25%">
+    <img src="/images/rda-TIGER-logo.jpg" alt="Image 2" width="15%">
 </div>
 
 <div style="text-align: justify">
