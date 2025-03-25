@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RDA WG
+title: Research Data Alliance Working Group
 permalink: /rda-bidt/
 ---
 
