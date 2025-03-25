@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Data Alliance Working Group
+title: Research Data Alliance Working Group: Building Immune Digital Twins
 permalink: /rda-bidt/
 ---
 
