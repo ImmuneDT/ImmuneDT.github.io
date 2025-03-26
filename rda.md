@@ -1,23 +1,33 @@
 ---
 layout: page
-title: Working Group
+title: RDA Building Immune Digital Twins (BIDT) Working Group
 permalink: /rda-bidt/
 ---
-## Research Data Alliance: Building Immune Digital Twins
 <div style="display: flex; justify-content: center;">
-    <img src="/images/rda-logo.png" alt="Image 1" style="width: 300px; height: auto;">
-    <img src="/images/rda-TIGER-logo.jpg" alt="Image 2" style="width: 300px; height: auto;">
+    <img src="/images/rda-logo.png" alt="Image 1" style="width: auto; height: 250px;">
+    <img src="/images/rda-TIGER-logo.jpg" alt="Image 2" style="width: 250px; height: 250px;">
 </div>
 
 <div style="text-align: justify">
 
 <br><br>
-The Working Group (WG) Building Immune Digital Twins, within the Research Data Alliance (RDA) framework, aims to foster a network of collaborators and experts in all relevant areas of research. The ultimate goal of the WG is to help create a long-term interdisciplinary immune digital twin community, willing to take up the challenges of this exciting new field. For a brief overview of our group, consider having a look at the <a href="https://immunedt.github.io/about/">About</a> section of our webpage.
+<p>The Building Immune Digital Twins (BIDT) Working Group is part of the <a href="https://www.rd-alliance.org/" target="_blank">Research Data Alliance (RDA)</a>, a global initiative dedicated to advancing open, cross-disciplinary data sharing and interoperability.</p>
+<p>The RDA BIDT Working Group brings together experts from diverse fields — including immunology, computational modeling, data science, clinical research, and ethics — to explore the development of Immune Digital Twins: virtual models of the human immune system that can support personalized medicine, vaccine development, and disease research.</p>
 
-To gain a concise overview of our on-going activities and objectives, please have a look at our <a href="https://www.rd-alliance.org/groups/building-immune-digital-twins-wg/work-statement/?sow=168511">working statement</a>. You can also consider joining or following our WG <a href="https://www.rd-alliance.org/groups/building-immune-digital-twins-wg/activity/">activities</a>.
+Together, we work to identify the scientific, technical, ethical, and social challenges involved in building and using Immune Digital Twins. Our goals include:
+<ul style="list-style-type: disc">
+    <li>Establishing community standards for data formats, model sharing, and metadata</li>
+    <li>Promoting interoperability across tools, platforms, and datasets</li>
+    <li>Fostering global collaboration through open science principles</li>
+    <li>Creating a roadmap for long-term development and sustainability of immune digital twin ecosystems</li>
+</ul>
+
+We welcome researchers and stakeholders from all related fields to contribute to this emerging and impactful area.
+
+<ul>
+    <li>Learn more about RDA BIDT Working Group in <a href="https://www.rd-alliance.org/groups/building-immune-digital-twins-wg/activity/" target="_blank">our RDA page</a></li>
+    <li>Explore our <a href="https://www.rd-alliance.org/groups/building-immune-digital-twins-wg/work-statement/?sow=168511" target="_blank">Working Statement</a> for current objectives</li>
+    <li>Join or follow our group via the  <a href="https://www.rd-alliance.org/register/" target="_blank">RDA platform</a></li>
+</ul>
 
 </div>
-
-## Sources
-
-1. https://www.rd-alliance.org/about/
