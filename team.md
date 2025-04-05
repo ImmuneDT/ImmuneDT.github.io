@@ -227,7 +227,7 @@ permalink: /team/
   <td class="tg-21ns" colspan="3" style="text-align: center;">Sheriff Malik, Ph.D.</td>
 </tr>
 <tr>
-  <td class="tg-zv4m" colspan="3" style="text-align: center;">Humboldt-University Berlin,<br>Faculty of Life Science,<br>Institute for Biology,<br>Systems Medicine of the Liver<br>Germany</td>
+  <td class="tg-zv4m" colspan="3" style="text-align: center;">Humboldt-University Berlin,<br>Faculty of Life Science,<br>Institute for Biology,<br><a href="https://livermetabolism.com">Systems Medicine of the Liver</a><br>Germany</td>
   <td class="tg-zv4m" colspan="3" style="text-align: center;">ESQlabs GmbH,<br>University Namur<br>Belgium</td>
   <td class="tg-zv4m" colspan="3" style="text-align: center;">Biomechanics Research Unit,<br>GIGA Molecular and Computational Biology,<br>University of Liège<br>Belgium</td>
   <td class="tg-zv4m" colspan="3" style="text-align: center;">BioModels,<br>European Bioinformatics Institute,<br>EMBL-EBI<br>United Kingdom</td>
