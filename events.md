@@ -15,10 +15,8 @@ permalink: /events/
 .tg .tg-zb5k{color:#15C;text-align:left;text-decoration:underline;vertical-align:top}
 </style>
 <table class="tg"><thead>
-  <tr>
-    <td class="tg-0lax"><img src="https://disease-maps.io/images/disease-maps-logo.png" width="54" height="54"></td>
-    <td class="tg-zb5k"><a href="https://disease-maps.io/DMCM2025/"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">9th Disease Maps Community Meeting 2025</span></a><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">15th to 17th of April 2025 - Leuven - BE</span></td>
-  </tr></thead>
+
+</thead>
 </table>
 
 <!-- Past events go here -->
@@ -35,6 +33,10 @@ permalink: /events/
 .tg .tg-zb5k{color:#15C;text-align:left;text-decoration:underline;vertical-align:top}
 </style>
 <table class="tg"><thead>
+  <tr>
+    <td class="tg-0lax"><img src="https://disease-maps.io/images/disease-maps-logo.png" width="54" height="54"></td>
+    <td class="tg-zb5k"><a href="https://disease-maps.io/DMCM2025/"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">9th Disease Maps Community Meeting 2025</span></a><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">15th to 17th of April 2025 - Leuven - BE</span></td>
+  </tr>
   <tr>
     <td class="tg-0lax"><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdpYbilAAgcj24ioLYktnlQv_O4iQBLPKrnJusyA9w3IOCfoKOKBjVXewHbUHLgoy-Vu30LCV-XWETalP_W44Luf0cqs5IkUemyzykSk0jplhNfH6eO8flsD1qlfwHNM-Zfwgc3-qnmA47wFXjM6JX5qQKg?key=C-C4josfBzOimVpWMbhkjA" width="54" height="54"></td>
     <td class="tg-zb5k"><a href="https://immunedt.github.io/minisymp2024/"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Building Immune Digital Twins mini-symposium 2024</span></a><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">15th of July 2024 - 9am - 12am, Amsterdam - NL</span></td>
