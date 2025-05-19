@@ -283,6 +283,42 @@ footer {
   text-align: center;
 }
 
+.flex-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap; /* makes it responsive on smaller screens */
+}
+
+.flex-section .text {
+  flex: 1;
+  min-width: 400px;
+}
+
+.flex-section .image {
+  flex: 1;
+  text-align: right;
+}
+
+.flex-section .image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.image figure {
+  margin: 0;
+  text-align: center;
+}
+
+.image figcaption {
+  font-size: 0.9rem;
+  color: #555;
+  margin-top: 0.5rem;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";

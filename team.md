@@ -150,7 +150,7 @@ permalink: /team/
   <td class="tg-21ns" colspan="3" >Joaquin Dopazo</td>
 </tr>
 <tr>
-  <td class="tg-zv4m" colspan="3" style="text-align: center;">Computational Biology Branch,<br>National Library of Medicine, NIH<br>United States</td>
+  <td class="tg-zv4m" colspan="3" style="text-align: center;">Maastricht Centre for Systems Biology (MaCSBio), <br> Maastricht University<br> Netherlands </td>
   <td class="tg-zv4m" colspan="3" style="text-align: center;">Center for Cell Analysis and Modeling,<br>University of Connecticut School of Medicine<br> United States</td>
   <td class="tg-zv4m" colspan="3" style="text-align: center;">Institut Curie, Inserm U1331,<br>Mines ParisTech, PSL<br>France</td>
   <td class="tg-zv4m" colspan="3" style="text-align: center;"></td>
