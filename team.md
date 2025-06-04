@@ -134,6 +134,23 @@ permalink: /team/
 </tr>
 
 <tr>
+    <td class="tg-7t95" colspan="12">Website and Git Management</td>
+</tr>
+
+<tr>
+  <td class="tg-zv4m" colspan="3" style="text-align: center;"><img src='/images/photos/Hasan-Balci.jpg' width="128" height="128"></td>
+  <td class="tg-zv4m" colspan="3" style="text-align: center;"><img src='/images/photos/Eirini-Tsirvouli.jpg' width="128" height="128"></td>
+  <td class="tg-zv4m" colspan="3" style="text-align: center;"><img src='/images/photos/Luiz-Ladeira.jpg' width="128" height="128"></td>
+  <td class="tg-zv4m" colspan="3" style="text-align: center;"><img src='/images/photos/IDT-member.png' width="128" height="128"></td>
+</tr>
+<tr>
+  <td class="tg-b420" colspan="3" >Hasan Balci, Ph.D.</td>
+  <td class="tg-21ns" colspan="3" >Eirini Tsirvouli, Ph.D.</td>
+  <td class="tg-21ns" colspan="3" >Luiz Ladeira, Ph.D.</td>
+  <td class="tg-b420" colspan="3" >Albin Salazar</td>
+</tr>
+
+<tr>
     <td class="tg-7t95" colspan="12">Team Members</td>
 </tr>
 
