@@ -9,10 +9,10 @@ permalink: /projects/
     <p> RDA TIGER Services 2023 - Building Immune Digital Twins Working Group
         RDA Experts Call Grant 2025 - Building Immune Digital Twins Working Group
         RDA CAscading Grant 2025 - Building Immune Digital Twins Working Group
-      <a href="https://www.rd-alliance.org/working-groups/rda-tiger/rda-tiger-services/" target="_blank">
+          <a href="https://www.rd-alliance.org/working-groups/rda-tiger/rda-tiger-services/" target="_blank">
     </p>
   </li>
-  <br>  
+  <br> 
 <li>
     ImmunoGIT: A Repository of Models and Metadata for Human Immune System Responses<br>2024–2025, UT3 & CBI Toulouse, PI: Anna Niarakis & Nicolas Ricort, <a href="/files/ImmunoGit_Project_Report.pdf" target="_blank">Project Report</a>
   </li>
