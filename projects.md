@@ -7,8 +7,8 @@ permalink: /projects/
 <ul>
   <li>
     <p> RDA TIGER Services 2023 - Building Immune Digital Twins Working Group
-    <p> RDA Experts Call Grant 2025 - Building Immune Digital Twins Working Group
-    <p> RDA CAscading Grant 2025 - Building Immune Digital Twins Working Group
+        RDA Experts Call Grant 2025 - Building Immune Digital Twins Working Group
+        RDA CAscading Grant 2025 - Building Immune Digital Twins Working Group
       <a href="https://www.rd-alliance.org/working-groups/rda-tiger/rda-tiger-services/" target="_blank">
       </p>
   </li>
