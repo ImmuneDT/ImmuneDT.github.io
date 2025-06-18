@@ -10,7 +10,7 @@ permalink: /projects/
         RDA Experts Call Grant 2025 - Building Immune Digital Twins Working Group
         RDA CAscading Grant 2025 - Building Immune Digital Twins Working Group
       <a href="https://www.rd-alliance.org/working-groups/rda-tiger/rda-tiger-services/" target="_blank">
-      </p>
+    </p>
   </li>
   <br>  
   <li>
