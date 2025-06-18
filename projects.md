@@ -9,7 +9,7 @@ permalink: /projects/
 RDA TIGER Services 2023 - Building Immune Digital Twins Working Group
 RDA Experts Call Grant 2025 - Building Immune Digital Twins Working Group
 RDA CAscading Grant 2025 - Building Immune Digital Twins Working Group
-https://www.rd-alliance.org/working-groups/rda-tiger/rda-tiger-services/
+<a href="https://www.rd-alliance.org/working-groups/rda-tiger/rda-tiger-services/ target="_blank">
   </li>
   <br>  
   <li>
@@ -18,12 +18,12 @@ https://www.rd-alliance.org/working-groups/rda-tiger/rda-tiger-services/
   <br>
   <li>
     DIOGENES — Digital twIns fOr reducinG animal usE iN rhEumatoid arthritis – Numerical approaches<br>2024–2026, French Reference Centre for 3R, PI: Anna Niarakis 
-https://www.fc3r.com/en/digital-tools-3-2023.html
+<a href="https://www.fc3r.com/en/digital-tools-3-2023.html target="_blank">
   </li>
   <br>
   <li>
     DigiDermA — Modeling interactions between mastocytes and nociceptors in atopic dermatitis<br>2023–2025, CNRS MITI, PI: Anna Niarakis
-https://miti.cnrs.fr/appel-a-projets/jumeaux-numeriques/
+<a href="https://miti.cnrs.fr/appel-a-projets/jumeaux-numeriques/ target="_blank"> 
   </li>
   <br>
   <li>
