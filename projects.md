@@ -13,7 +13,7 @@ permalink: /projects/
     </p>
   </li>
   <br>  
-  <li>
+<li>
     ImmunoGIT: A Repository of Models and Metadata for Human Immune System Responses<br>2024–2025, UT3 & CBI Toulouse, PI: Anna Niarakis & Nicolas Ricort, <a href="/files/ImmunoGit_Project_Report.pdf" target="_blank">Project Report</a>
   </li>
   <br>
