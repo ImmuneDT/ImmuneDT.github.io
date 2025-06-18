@@ -41,7 +41,7 @@ permalink: /team/
   <td class="tg-21ns" colspan="4" style="text-align: center;">Jasmin Fisher, Ph.D.</td>
 </tr>
 <tr>
-  <td class="tg-8zks" colspan="4"> Leading chair, Full Professor of Quantitative Biology and Bioinformatics<br>Head of the Computational Systems Biology team,<br> Center of Integrative Biology (CBI), <br>University of Toulouse <br> France</td>
+  <td class="tg-8zks" colspan="4"> Leading chair<br> Full Professor of Quantitative Biology & Bioinformatics<br>Head of the Computational Systems Biology team,<br> Center of Integrative Biology (CBI), <br>University of Toulouse <br> France</td>
   <td class="tg-8zks" colspan="4">Inaugural Green and Gold Professor<br>of Trauma and Critical Care and<br>Vice Chair of Surgical Research,<br>Department of Surgery, University of Vermont <br> United States </td>
   <td class="tg-8zks" colspan="4"></td>
 </tr>
