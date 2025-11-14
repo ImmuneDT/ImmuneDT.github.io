@@ -15,7 +15,10 @@ permalink: /events/
 .tg .tg-zb5k{color:#15C;text-align:left;text-decoration:underline;vertical-align:top}
 </style>
 <table class="tg"><thead>
-
+  <tr>
+    <td class="tg-0lax"><img src="/images/eiffel-tower.256x256.png" width="54" height="54"></td>
+    <td class="tg-zb5k"><a href="https://immunedt.github.io/rdasummit2025/"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">RDA in Europe Annual Summit</span></a><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">18 Nov 2025, Paris - France</span></td>
+  </tr>
 </thead>
 </table>
 
